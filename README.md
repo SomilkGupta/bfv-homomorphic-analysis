@@ -8,7 +8,7 @@
 - **Minimal noise degradation** (only 5 bits lost)
 - **Production-ready performance** demonstrated
 
-## 📊 [View Interactive Dashboard](https://yourusername.github.io/bfv-homomorphic-analysis/)
+## 📊 [View Interactive Dashboard](https://SomilkGupta.github.io/bfv-homomorphic-analysis/)
 
 ## Key Findings
 - Noise degradation: ~0.005 bits per iteration
